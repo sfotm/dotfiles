@@ -1,0 +1,4 @@
+[user]
+	email = benjamin@stammen.me
+[pull]
+	rebase = true
